@@ -31,13 +31,13 @@
 
 ### Hong Kong Baptist University
 **M.Sc. Data Analytics & AI** | 2023-2024  
-GPA: 2.64/4.0 | Taught Program
+CGPA: 2.64/4.0 | Taught Program
 
 ### United International University
 **M.Sc. Data Science** | 2021-2022  
-GPA: 3.56/4.0 | Thesis: *Speaker Diarization from Bangla Conversation*  
+CGPA: 3.56/4.0 | Thesis: *Speaker Diarization from Bangla Conversation*  
 **B.Sc. Computer Science** | 2016-2020  
-Thesis GPA: 4.0/4.0 | Thesis: *Identifying Lyricist from Bengali Lyrics*
+CGPA: 2.53/4.00, Thesis GPA: 4.0/4.0 | Thesis: *Identifying Lyricist from Bengali Lyrics*
 
 ## 📝 Publications
 1. **Chowdhury, K.**, & Huda, M. N. (Under Review). *Speaker Diarization from Bangla Conversation*
