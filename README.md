@@ -11,7 +11,7 @@
 - Speech Recognition
 - Machine Learning Applications
 
-## 👨‍💻 Professional Experience
+## 👨‍💻 Work Experience
 
 ### 🏫 The Hong Kong Polytechnic University (PolyU)
 **Research Associate** | Nov 2024 - Present  
@@ -20,7 +20,7 @@
 **Research Technical Assistant** | Feb 2023 - Aug 2023  
 - Researched smart contract technologies under Dr. Emmanuel Kingsford
 
-### 🎓 City University of Hong Kong
+### 🏫 City University of Hong Kong
 **Research Assistant** | Jul 2022 - Jan 2023   
 - Contributed to image processing projects supervised by Prof. Jonathan Zhu
 
@@ -29,11 +29,11 @@
 
 ## 📚 Education
 
-### Hong Kong Baptist University
+### 🎓 Hong Kong Baptist University
 **M.Sc. Data Analytics & AI** | 2023-2024  
 CGPA: 2.64/4.0 | Taught Program
 
-### United International University
+### 🎓 United International University
 **M.Sc. Data Science** | 2021-2022  
 CGPA: 3.56/4.0 | Thesis: *Speaker Diarization from Bangla Conversation*  
 **B.Sc. Computer Science** | 2016-2020  
