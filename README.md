@@ -45,7 +45,7 @@ Thesis GPA: 4.0/4.0 | Thesis: *Identifying Lyricist from Bengali Lyrics*
 3. Ahmed, F., **Chowdhury, K.**, et al. (2021). *Word Embedding based News Classification using CNN*. ICSECS
 
 ## 🛠️ Technical Skills
-- Languages       = ["Python", "C++", "JavaScript", "SQL", "HTML"]
-- ML Frameworks   = ["PyTorch", "TensorFlow", "Keras", "Scikit-Learn"]
-- Tools           = ["Git", "Docker", "Linux", "LaTeX", "Tableau", "Power BI"]
-- Research Areas  = ["NLP", "Computer Vision", "Speech Recognition", "Deep Learning"]
+- Languages       = Python, C++, JavaScript, SQL, HTML
+- ML Frameworks   = PyTorch, TensorFlow, Keras, Scikit-Learn
+- Tools           = Git, Docker, Linux, LaTeX, Tableau, Power BI
+- Research Areas  = NLP, Computer Vision, Speech Recognition, Deep Learning
